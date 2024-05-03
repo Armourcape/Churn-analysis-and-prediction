@@ -7,7 +7,7 @@ Predicting customer churn in a telecommunications company using machine learning
 This project aims to predict customer churn in a telecommunications company using machine learning techniques. The dataset used is sourced from [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Installation
-- Python 3.x
+- Python 3+
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, catboost, tensorflow, etc.
 
 ## Usage
@@ -28,7 +28,7 @@ This project aims to predict customer churn in a telecommunications company usin
 - Evaluated models based on accuracy and selected the Random Forest model for its high performance.
 
 ## Model Evaluation
-- Achieved an accuracy of X% with the Random Forest model.
+- Achieved an accuracy of 81.37% with the Random Forest model.
 - Provided classification reports for each model.
 
 ## Deployment
@@ -44,8 +44,4 @@ This project demonstrates the effectiveness of machine learning in predicting cu
 This project is licensed under the MIT License.
 
 ## Contact Information
-For questions or feedback, please contact [Your Name] at [Your Email].
-
-## Acknowledgements
-- Special thanks to [Mentor/Contributor Name] for their guidance and support.
-
+For questions or feedback, please contact me, Veekshith Rao at pveekshithrao@gmail.com.
